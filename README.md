@@ -1,0 +1,2 @@
+# HwSmartAudio2
+华为智能笔在MatebookE上替换原智能语音带来小爱和双击切换橡皮擦功能
