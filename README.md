@@ -10,7 +10,7 @@
 
 1.下载Release中的HwSmartAudio.exe和附带的配置文件penset.ini
 
-2.替换华为管家文件夹(C:\Program Files\Huawei\PCManager\SmartAudio)中的HwSmartAudio.exe，并把penset.ini放入同一目录
+2.替换华为管家文件夹(C:\Program Files\Huawei\SmartAudio)中的HwSmartAudio.exe，并把penset.ini放入同一目录
 
 3.替换完毕后，右击新的HwSmartAudio.exe文件，属性，改成只读，否则华为会自动把文件替换回来
 
